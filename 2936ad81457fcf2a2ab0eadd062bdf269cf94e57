@@ -1,0 +1,44 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7faddb67_9e8f83cb",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 13881
+      },
+      "writtenOn": "2016-04-05T16:00:30Z",
+      "side": 1,
+      "message": "YEAR\u003d`date +\"%Y\"`",
+      "revId": "2936ad81457fcf2a2ab0eadd062bdf269cf94e57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7faddb67_3ebe8f65",
+        "filename": "setup-makefiles.sh",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13881
+      },
+      "writtenOn": "2016-04-05T16:00:30Z",
+      "side": 1,
+      "message": "$YEAR",
+      "range": {
+        "startLine": 7,
+        "startChar": 16,
+        "endLine": 7,
+        "endChar": 20
+      },
+      "revId": "2936ad81457fcf2a2ab0eadd062bdf269cf94e57",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
