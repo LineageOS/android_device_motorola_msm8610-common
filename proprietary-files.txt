@@ -58,7 +58,6 @@ vendor/lib/libmmqjpeg_codec.so
 vendor/lib/libmmQSM.so
 vendor/lib/libmmrtpdecoder.so
 vendor/lib/libnetmgr.so
-vendor/lib/liboemcamera.so
 vendor/lib/liboemcrypto.so
 vendor/lib/libOmxAacDec.so
 vendor/lib/libOmxAmrwbplusDec.so
